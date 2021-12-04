@@ -12,7 +12,7 @@ import json
 
 tweets = []
 
-for line in open("sample_tweets(1).txt"):
+for line in open("data/sample_tweets(1).txt"):
     temp = line.split('.')
     tweets += temp
 

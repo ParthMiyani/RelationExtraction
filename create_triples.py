@@ -4,7 +4,7 @@ import csv
 tweets = []
 
 # Reading tweets from txt file, separating it by full stops and storing it in tweets list
-for line in open("sample_tweets.txt"):
+for line in open("data/sample_tweets.txt"):
     temp = line.split('.')
     tweets += temp
 
