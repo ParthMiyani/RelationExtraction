@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\create_triples.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\rel_component\configs\rel_trf.cfg">
           <value>
             <Attribute>
@@ -31,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\sample_tweets(1).txt">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\script.py">
           <value>
             <Attribute>
@@ -39,6 +53,13 @@
           </value>
         </entry>
         <entry key="\training_data.json">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\tweetpi1.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
